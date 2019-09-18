@@ -18,5 +18,10 @@ function holidayCountdown (holiday, days) {
 }
 
 
-
+function log() {
+  console.log("");
+  console.log(greeting);
+  var greeting = 'Hello!';
+}
+log();
 
